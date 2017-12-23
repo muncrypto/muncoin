@@ -1,0 +1,6 @@
+usr/local/bin/mun-qt usr/bin
+share/pixmaps/mun32.xpm usr/share/pixmaps
+share/pixmaps/mun16.xpm usr/share/pixmaps
+share/pixmaps/mun128.png usr/share/pixmaps
+debian/mun-qt.desktop usr/share/applications
+debian/mun-qt.protocol usr/share/kde4/services/
