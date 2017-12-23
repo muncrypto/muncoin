@@ -88,8 +88,8 @@ static const size_t DEFAULT_MAXSENDBUFFER    = 1 * 1000;
 
 static const ServiceFlags REQUIRED_SERVICES = NODE_NETWORK;
 
-// NOTE: When adjusting this, update rpcnet:setban's help ("24h")
-static const unsigned int DEFAULT_MISBEHAVING_BANTIME = 60 * 60 * 24;  // Default 24-hour ban
+// NOTE: When adjusting this, update rpcnet:setban's help ("10min")
+static const unsigned int DEFAULT_MISBEHAVING_BANTIME = 60 * 10;  // Default 10 min ban
 
 typedef int NodeId;
 
@@ -142,7 +142,7 @@ public:
     // fConnectToMasternode should be 'true' only if you want this node to allow to connect to itself
     // and/or you want it to be disconnected on CMasternodeMan::ProcessMasternodeConnections()
     // Unfortunately, can't make this method private like in Bitcoin,
-    // because it's used in many Dash-specific places (masternode, privatesend).
+    // because it's used in many Mun-specific places (masternode, privatesend).
     CNode* ConnectNode(CAddress addrConnect, const char *pszDest = NULL, bool fConnectToMasternode = false);
 
     struct CFullyConnectedOnly {

@@ -1,0 +1,22 @@
+[Unit]
+Description=Mun's distributed currency daemon
+After=network.target
+
+[Service]
+User=muncore
+Group=muncore
+
+Type=forking
+PIDFile=/var/lib/mund/mund.pid
+ExecStart=/usr/bin/mund -daemon -pid=/var/lib/mund/mund.pid \
+-conf=/etc/muncore/mun.conf -datadir=/var/lib/mund -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
