@@ -1,5 +1,5 @@
-Mun Core staging tree 0.1.0
-===============================
+Mun Core staging tree 0.1.0.2
+=============================
 
 http://www.muncoin.info
 
