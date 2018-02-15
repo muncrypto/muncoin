@@ -93,9 +93,9 @@ OptionsDialog::OptionsDialog(QWidget *parent, bool enableWallet) :
 
     /* Theme selector */
     ui->theme->addItem(QString("MUN-light"), QVariant("light"));
-    ui->theme->addItem(QString("MUN-light-hires"), QVariant("light-hires"));
+    //ui->theme->addItem(QString("MUN-light-hires"), QVariant("light-hires"));
     ui->theme->addItem(QString("MUN-blue"), QVariant("drkblue"));
-    ui->theme->addItem(QString("MUN-Crownium"), QVariant("crownium"));
+    //ui->theme->addItem(QString("MUN-Crownium"), QVariant("crownium"));
     ui->theme->addItem(QString("MUN-traditional"), QVariant("trad"));
 
     /* Language selector */
