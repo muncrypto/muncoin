@@ -857,28 +857,28 @@
         <translation>Proszę wybrać poziom prywatności.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 1000 MUN</source>
-        <translation>Użyj 2 oddzielnych masternodów, aby wymieszać środki max. do 1000 MUN</translation>
+        <source>Use 2 separate masternodes to mix funds up to 15000 MUN</source>
+        <translation>Użyj 2 oddzielnych masternodów, aby wymieszać środki max. do 15000 MUN</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 1000 MUN</source>
-        <translation>Użyj 8 oddzielnych masternodów, aby wymieszać środki max. do 1000 MUN</translation>
+        <source>Use 8 separate masternodes to mix funds up to 15000 MUN</source>
+        <translation>Użyj 8 oddzielnych masternodów, aby wymieszać środki max. do 15000 MUN</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Użyj 16 oddzielnych masternodów</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 MUN to anonymize 1000 MUN</source>
-        <translation>Ta opcja jest najszybsza i kosztuje około 0.025 MUN za zanonimizowanie 1000 MUN</translation>
+        <source>This option is the quickest and will cost about ~0.025 MUN to anonymize 15000 MUN</source>
+        <translation>Ta opcja jest najszybsza i kosztuje około 0.025 MUN za zanonimizowanie 15000 MUN</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 MUN to anonymize 1000 MUN</source>
-        <translation>Ta opcja jest w miarę szybka i kosztuje około 0.05 MUN za zanonimizowanie 1000 MUN</translation>
+        <source>This option is moderately fast and will cost about 0.05 MUN to anonymize 15000 MUN</source>
+        <translation>Ta opcja jest w miarę szybka i kosztuje około 0.05 MUN za zanonimizowanie 15000 MUN</translation>
     </message>
     <message>
-        <source>0.1 MUN per 1000 MUN you anonymize.</source>
-        <translation>0.1 MUN za każde 1000 MUN, które zanonimizujesz.</translation>
+        <source>0.1 MUN per 15000 MUN you anonymize.</source>
+        <translation>0.1 MUN za każde 15000 MUN, które zanonimizujesz.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -4057,8 +4057,8 @@ https://www.transifex.com/projects/p/mun/</translation>
         <translation>Produkt ten zawiera oprogramowanie stworzone przez OpenSSL Project do użytku w OpenSSL Toolkit &lt;https://www.openssl.org/&gt;, oprogramowanie krptograficzne napisane przez Eric Young oraz oprogramowanie UPnP napisane przez Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 MUN.</source>
-        <translation>Niemożliwe jest zlokalizowanie wystarczającej ilości środków dla tej transakcji, które nie są równe 1000 MUN.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 15000 MUN.</source>
+        <translation>Niemożliwe jest zlokalizowanie wystarczającej ilości środków dla tej transakcji, które nie są równe 15000 MUN.</translation>
     </message>
     <message>
         <source>Use hierarchical deterministic key generation (HD) after bip39/bip44. Only has effect during wallet creation/first start</source>

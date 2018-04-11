@@ -857,28 +857,28 @@
         <translation>Veuillez choisir un niveau de confidentialité.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 1000 MUN</source>
-        <translation>Utiliser 2 masternodes distincts pour mélanger jusqu'à 1000 MUN</translation>
+        <source>Use 2 separate masternodes to mix funds up to 15000 MUN</source>
+        <translation>Utiliser 2 masternodes distincts pour mélanger jusqu'à 15000 MUN</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 1000 MUN</source>
-        <translation>Utiliser 8 masternodes distincts pour mélanger jusqu'à 1000 MUN</translation>
+        <source>Use 8 separate masternodes to mix funds up to 15000 MUN</source>
+        <translation>Utiliser 8 masternodes distincts pour mélanger jusqu'à 15000 MUN</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Utiliser 16 masternodes distincts</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 MUN to anonymize 1000 MUN</source>
-        <translation>Cette option est la plus rapide et coûtera environ 0,025 MUN pour anonymiser 1000 MUN</translation>
+        <source>This option is the quickest and will cost about ~0.025 MUN to anonymize 15000 MUN</source>
+        <translation>Cette option est la plus rapide et coûtera environ 0,025 MUN pour anonymiser 15000 MUN</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 MUN to anonymize 1000 MUN</source>
-        <translation>Cette option est un peu moins rapide et coûtera environ 0,05 MUN pour anonymiser 1000 MUN</translation>
+        <source>This option is moderately fast and will cost about 0.05 MUN to anonymize 15000 MUN</source>
+        <translation>Cette option est un peu moins rapide et coûtera environ 0,05 MUN pour anonymiser 15000 MUN</translation>
     </message>
     <message>
-        <source>0.1 MUN per 1000 MUN you anonymize.</source>
-        <translation>0,1 MUN par 1000 MUN anonymisés.</translation>
+        <source>0.1 MUN per 15000 MUN you anonymize.</source>
+        <translation>0,1 MUN par 15000 MUN anonymisés.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -4073,8 +4073,8 @@ https://www.transifex.com/projects/p/mun/</translation>
         <translation>Ce produit comprend des logiciels développés par le projet OpenSSL afin d'être utilisés dans la boîte à outils OpenSSL &lt;https://www.openssl.org/&gt;, un logiciel de chiffrement écrit par Eric Young et un logiciel UPnP développé par Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 MUN.</source>
-        <translation>Impossible de localiser suffisamment de fonds pour cette transaction qui ne sont pas égaux à 1000 MUN.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 15000 MUN.</source>
+        <translation>Impossible de localiser suffisamment de fonds pour cette transaction qui ne sont pas égaux à 15000 MUN.</translation>
     </message>
     <message>
         <source>Use hierarchical deterministic key generation (HD) after bip39/bip44. Only has effect during wallet creation/first start</source>
@@ -4673,8 +4673,8 @@ https://www.transifex.com/projects/p/mun/</translation>
         <translation>Impossible de trouver suffisamment de fonds PrivateSend pour cette transaction.</translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 MUN.</source>
-        <translation>Impossible de trouver pour cette transaction suffisamment de fonds non-labellisés PrivateSend  qui ne soient pas égaux à 1000 MUN.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 15000 MUN.</source>
+        <translation>Impossible de trouver pour cette transaction suffisamment de fonds non-labellisés PrivateSend  qui ne soient pas égaux à 15000 MUN.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

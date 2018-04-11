@@ -857,28 +857,28 @@
         <translation>Пожалуйста, выберите уровень приватности.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 1000 MUN</source>
-        <translation>Использовать 2 отдельные мастерноды для перемешивания до 1000 MUN</translation>
+        <source>Use 2 separate masternodes to mix funds up to 15000 MUN</source>
+        <translation>Использовать 2 отдельные мастерноды для перемешивания до 15000 MUN</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 1000 MUN</source>
-        <translation>Использовать 8 отдельных мастернод для перемешивания до 1000 MUN</translation>
+        <source>Use 8 separate masternodes to mix funds up to 15000 MUN</source>
+        <translation>Использовать 8 отдельных мастернод для перемешивания до 15000 MUN</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Использовать 16 отдельных мастернод</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 MUN to anonymize 1000 MUN</source>
-        <translation>Это самый быстрый вариант, анонимизация 1000 MUN будет стоить вам примерно 0.025 MUN</translation>
+        <source>This option is the quickest and will cost about ~0.025 MUN to anonymize 15000 MUN</source>
+        <translation>Это самый быстрый вариант, анонимизация 15000 MUN будет стоить вам примерно 0.025 MUN</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 MUN to anonymize 1000 MUN</source>
-        <translation>Это относительно быстрый вариант, анонимизация 1000 MUN будет стоить вам примерно 0.05 MUN</translation>
+        <source>This option is moderately fast and will cost about 0.05 MUN to anonymize 15000 MUN</source>
+        <translation>Это относительно быстрый вариант, анонимизация 15000 MUN будет стоить вам примерно 0.05 MUN</translation>
     </message>
     <message>
-        <source>0.1 MUN per 1000 MUN you anonymize.</source>
-        <translation>0.1 MUN за каждые анонимизированные 1000 MUN.</translation>
+        <source>0.1 MUN per 15000 MUN you anonymize.</source>
+        <translation>0.1 MUN за каждые анонимизированные 15000 MUN.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -4073,7 +4073,7 @@ https://www.transifex.com/projects/p/mun/</translation>
         <translation>Этот продукт включает ПО, разработанное проектом OpenSSL Project для использования в OpenSSL Toolkit &lt;https://www.openssl.org/&gt;, криптографическое ПО, написанное Eric Young и ПО для работы с UPnP, написанное Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 MUN.</source>
+        <source>Unable to locate enough funds for this transaction that are not equal 15000 MUN.</source>
         <translation>Не удалось обнаружить достаточных для выполнения этой транзакции средств, отличающихся от 1000DRK.</translation>
     </message>
     <message>
@@ -4673,8 +4673,8 @@ https://www.transifex.com/projects/p/mun/</translation>
         <translation>Не удалось обнаружить достаточных для выполнения этой транзакции номиналов PrivateSend.</translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 MUN.</source>
-        <translation>Не удалось обнаружить достаточных для выполнения этой транзакции неденоминированных средств, отличающихся от 1000 MUN.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 15000 MUN.</source>
+        <translation>Не удалось обнаружить достаточных для выполнения этой транзакции неденоминированных средств, отличающихся от 15000 MUN.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

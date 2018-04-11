@@ -87,7 +87,7 @@ enum WalletFeature
     FEATURE_HD = 20000,    // Hierarchical key derivation after BIP32 (HD Wallet), BIP44 (multi-coin), BIP39 (mnemonic)
                             // which uses on-the-fly private key derivation
 
-    FEATURE_LATEST = 10002
+    FEATURE_LATEST = 10003
 };
 
 enum AvailableCoinsType

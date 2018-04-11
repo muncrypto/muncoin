@@ -77,11 +77,11 @@ public:
         consensus.nBlockSubsidyRampPeriod = 576*3; // 3 days
         consensus.nMasternodePaymentsStartBlock = 576*14; // 14 days
         consensus.nInstantSendKeepLock = 24;
-        consensus.nBudgetPaymentsStartBlock = 1000000000; // disable for now
+        consensus.nBudgetPaymentsStartBlock = 65000;
         consensus.nBudgetPaymentsCycleBlocks = 17520; // 1 month
         consensus.nBudgetPaymentsWindowBlocks = 100;
         consensus.nBudgetProposalEstablishingTime = 60*60*24;
-        consensus.nSuperblockStartBlock = 1000000000;
+        consensus.nSuperblockStartBlock = 65000;
         consensus.nSuperblockCycle = 17520; // 1 month
         consensus.nGovernanceMinQuorum = 10;
         consensus.nGovernanceFilterElements = 20000;
